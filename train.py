@@ -1,6 +1,6 @@
 import random
 
-accuracy = 0.80  # fail first
+accuracy = 0.90
 
 run_id = "run_" + str(random.randint(1000, 9999))
 
